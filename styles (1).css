@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9dbbd3;
+}
+
+nav {
+    background: #0b0015;
+    color: #be39a4;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(196, 127, 127);
+    text-decoration: none;
+}
+
+header {
+    background: #030b13;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: rgb(54, 27, 27);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
